@@ -26,7 +26,7 @@ global.owner = ['94787811464'] //your owner number
 global.premium = ['94787811464'] //your Owner number in menu msg
 global.ownernomer = '94787811464' //your owner number info
 
-global.ownername = 'Ishan Sandeepa' //your owner name
+global.ownername = 'shehan dinushka' //your owner name
 global.botname = '💞 𝐌𝐑.𝐒𝐇𝐄𝐍𝐔 💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
 global.footer = '💞 𝐌𝐑.𝐒𝐇𝐄𝐍𝐔 💞' 
 
